@@ -2,6 +2,7 @@
 The Chaikin Money Flow (CMF) is an indicator created by Marc Chaikin in the 1980s to monitor the accumulation and distribution of a stock over a specified period
 
 * Coding by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me/personal/algo)
+* Published: [MQL5 Market](https://www.mql5.com/ru/market/product/135679)
 * Version: 1.00
 
 ## TOC
